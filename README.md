@@ -15,13 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexjonker&theme=prussian&no-frame=true&no-bg=true&margin-w=4&hide_border=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=prussian&hide_border=true)
-
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexjonker&limit=5&theme=prussian&combine_all_yearly_contributions=true&hide_border=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=alexjonker&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
