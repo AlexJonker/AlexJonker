@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Ik doe software development  <br>🤝 Ik ben op zoek naar hulp om mijn vaardigheden te verbeteren  <br>🌱 Momenteel leer ik Python  
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AR-Jonker) 
 
