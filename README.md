@@ -33,3 +33,7 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake.svg" />
 </picture>
+
+
+# 🎵 Music history:
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=151515&footer_style=wave&header_style=compact_stats_only)](https://www.last.fm/user/duckie_xyz)
