@@ -36,5 +36,5 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 # 🎵 Music history:
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=151515&footer_style=wave&header_style=compact_stats_only" />
-    <img alt="github-snake" src="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=FFFEFE&footer_style=wave&header_style=compact_stats_only" />
+    <img alt="github-snake" src="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=828A92&footer_style=wave&header_style=compact_stats_only" />
 </picture>
