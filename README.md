@@ -27,10 +27,13 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 
 
 
-<picture>
+<div style="display:inline-block; overflow:hidden; border-radius:4.5px;">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake-dark.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake.svg" />
-</picture>
+  </picture>
+</div>
+
 
 
 # 🎵 Music history:

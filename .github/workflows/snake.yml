@@ -30,10 +30,36 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+
+      - name: Add Background to SVGs Safely
+        run: |
+          LIGHT_BG="#f0f0f0"
+          DARK_BG="#151515"
+
+          mkdir -p dist_bg
+
+          for FILE in dist/github-snake.svg dist/github-snake-dark.svg; do
+            BASENAME=$(basename "$FILE")
+
+            if [[ "$BASENAME" == *"dark"* ]]; then
+              BG_COLOR="$DARK_BG"
+            else
+              BG_COLOR="$LIGHT_BG"
+            fi
+
+            awk -v color="$BG_COLOR" '{
+              if($0 ~ /<\/desc>/ && !done) {
+                sub(/<\/desc>/, "& <rect x=\"-50\" y=\"-50\" width=\"200%\" height=\"200%\" fill=\"" color "\" />")
+                done=1
+              }
+              print
+            }' "$FILE" > "dist_bg/$BASENAME"
+          done
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: '${{ secrets.GITHUB_TOKEN }}'
-          publish_dir: ./dist
+          publish_dir: ./dist_bg
           publish_branch: output
-          commit_message: 'Update snake animation [skip ci]'
+          commit_message: 'Update snake animation'
