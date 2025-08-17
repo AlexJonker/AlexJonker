@@ -5,17 +5,17 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/AR-Jonker)
 
 # 💻 Tech Stack:
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white)](#)
 [![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)](#)
 
@@ -34,7 +34,9 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 
 
 # 🎵 Music history:
-<picture>
+<a href="https://www.last.fm/user/duckie_xyz">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=151515&footer_style=wave&header_style=compact_stats_only" />
-    <img alt="github-snake" src="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=828A92&footer_style=wave&header_style=compact_stats_only" />
-</picture>
+    <img alt="Last.fm recently played" src="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=828A92&footer_style=wave&header_style=compact_stats_only" />
+  </picture>
+</a>
