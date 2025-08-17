@@ -21,13 +21,13 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 
 # 📊 GitHub Stats:
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=alexjonker&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
     <img alt="github-snake" src="https://nirzak-streak-stats.vercel.app/?user=alexjonker&theme=light&hide_border=true" />
 </picture>
 
 
 
-<div style="display:inline-block; overflow:hidden; border-radius:4.5px;">
+<div style="display:inline-block; overflow:hidden; border-radius:5px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake-dark.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake.svg" />
@@ -39,7 +39,7 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 # 🎵 Music history:
 <a href="https://www.last.fm/user/duckie_xyz">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=151515&footer_style=wave&header_style=compact_stats_only" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=EB545400&footer_style=wave&header_style=compact_stats_only" />
     <img alt="Last.fm recently played" src="https://lastfm-recently-played.vercel.app/api?user=duckie_xyz&show_user=header&bg_color=828A92&footer_style=wave&header_style=compact_stats_only" />
   </picture>
 </a>
