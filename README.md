@@ -3,8 +3,8 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 
 # 🌐 Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/AR-Jonker)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](https://opendsh.slack.com/team/U09C4R7BPSM)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex@alexjonker.dev)
+[![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@alex:matrix.alexjonker.dev)
 
 # 💻 Tech Stack:
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=white)](#)
