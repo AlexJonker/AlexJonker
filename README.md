@@ -24,6 +24,8 @@ Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. 
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 
 # 📊 GitHub Stats:
+![:name](https://count.getloli.com/@AlexJonker?theme=miku)
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
     <img alt="github-snake" src="https://nirzak-streak-stats.vercel.app/?user=alexjonker&theme=light&hide_border=true" />
