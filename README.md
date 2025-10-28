@@ -1,5 +1,8 @@
 # 💫 About Me:
 Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. Professional Googler and amateur coder, currently running on ChatGPT and Stack Overflow.
+<br>
+<br>
+See my other repos [here](https://git.alexjonker.dev/alex?q=&tab=repositories&mirror=0&sort=recentupdate)
 
 # 🌐 Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/AR-Jonker)
