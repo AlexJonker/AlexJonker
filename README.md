@@ -31,18 +31,8 @@ See my other repos [here](https://git.alexjonker.dev/alex?q=&tab=repositories&mi
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
-    <img alt="github-snake" src="https://nirzak-streak-stats.vercel.app/?user=alexjonker&theme=light&hide_border=true" />
+    <img alt="stats" src="https://nirzak-streak-stats.vercel.app/?user=alexjonker&theme=light&hide_border=true" />
 </picture>
-
-
-
-<div style="display:inline-block; overflow:hidden; border-radius:5px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/alexjonker/alexjonker/output/github-snake.svg" />
-  </picture>
-</div>
-
 
 
 # 🎵 Music history:
