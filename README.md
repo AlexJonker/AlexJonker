@@ -1,9 +1,3 @@
-# 💫 About Me:
-Writes code, breaks things, fixes them… sometimes. Mostly just breaks things. Professional Googler and amateur coder, currently running on ChatGPT and Stack Overflow.
-<br>
-<br>
-See my other repos [here](https://git.alexjonker.dev/alex?q=&tab=repositories&mirror=0&sort=recentupdate)
-
 # 🌐 Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/AR-Jonker)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex@alexjonker.dev)
@@ -15,7 +9,7 @@ See my other repos [here](https://git.alexjonker.dev/alex?q=&tab=repositories&mi
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logob=Cloudflare&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
@@ -25,6 +19,7 @@ See my other repos [here](https://git.alexjonker.dev/alex?q=&tab=repositories&mi
 [![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 
 # 📊 GitHub Stats:
 ![:name](https://count.getloli.com/@AlexJonker?theme=miku)
