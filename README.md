@@ -20,6 +20,7 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
 ![:name](https://count.getloli.com/@AlexJonker?theme=miku)
