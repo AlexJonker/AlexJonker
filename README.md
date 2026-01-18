@@ -26,6 +26,6 @@
 ![:name](https://count.getloli.com/@AlexJonker?theme=miku)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
-    <img alt="stats" src="https://nirzak-streak-stats.vercel.app/?user=alexjonker&theme=light&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.alexjonker.dev?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
+    <img alt="stats" src="https://githubstats.alexjonker.dev?user=alexjonker&theme=light&hide_border=true" />
 </picture>
