@@ -23,9 +23,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
-![:name](https://count.getloli.com/@AlexJonker?theme=miku)
+![:name](https://github-visits.alexjonker.dev/@AlexJonker?theme=miku)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.alexjonker.dev?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
-    <img alt="stats" src="https://githubstats.alexjonker.dev?user=alexjonker&theme=light&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.alexjonker.dev?user=alexjonker&theme=dark&hide_border=true&background=EB545400" />
+    <img alt="stats" src="https://github-contributions.alexjonker.dev?user=alexjonker&theme=light&hide_border=true" />
 </picture>
